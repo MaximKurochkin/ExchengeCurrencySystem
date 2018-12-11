@@ -66,11 +66,11 @@
     <Compile Include="ExchangeRates.Designer.cs">
       <DependentUpon>ExchangeRates.cs</DependentUpon>
     </Compile>
-    <Compile Include="Registration.cs">
+    <Compile Include="Login.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Registration.Designer.cs">
-      <DependentUpon>Registration.cs</DependentUpon>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -89,8 +89,8 @@
     <EmbeddedResource Include="ExchangeRates.resx">
       <DependentUpon>ExchangeRates.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Registration.resx">
-      <DependentUpon>Registration.cs</DependentUpon>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -116,6 +116,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Presenters\Presenters.csproj">
+      <Project>{5e0332a5-c6c3-4dbb-9b5c-66a3bd50a5a2}</Project>
+      <Name>Presenters</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

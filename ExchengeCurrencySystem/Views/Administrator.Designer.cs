@@ -839,6 +839,7 @@
             // 
             // textBox18
             // 
+            this.textBox18.Enabled = false;
             this.textBox18.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.textBox18.Location = new System.Drawing.Point(12, 570);
             this.textBox18.Multiline = true;
@@ -895,6 +896,7 @@
             this.Controls.Add(this.groupBox1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.Name = "Administrator";
+            this.RightToLeftLayout = true;
             this.Text = "Administrator";
             this.Load += new System.EventHandler(this.Administrator_Load);
             this.groupBox1.ResumeLayout(false);

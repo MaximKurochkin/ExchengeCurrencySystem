@@ -1,0 +1,14 @@
+D:\MyPrograms\курс 3\MainProject\ExchengeCurrencySystem\Models\bin\Debug\Models.exe.config
+D:\MyPrograms\курс 3\MainProject\ExchengeCurrencySystem\Models\bin\Debug\Models.exe
+D:\MyPrograms\курс 3\MainProject\ExchengeCurrencySystem\Models\bin\Debug\Models.pdb
+D:\MyPrograms\курс 3\MainProject\ExchengeCurrencySystem\Models\bin\Debug\Presenters.exe
+D:\MyPrograms\курс 3\MainProject\ExchengeCurrencySystem\Models\bin\Debug\Services.exe
+D:\MyPrograms\курс 3\MainProject\ExchengeCurrencySystem\Models\bin\Debug\Presenters.pdb
+D:\MyPrograms\курс 3\MainProject\ExchengeCurrencySystem\Models\bin\Debug\Presenters.exe.config
+D:\MyPrograms\курс 3\MainProject\ExchengeCurrencySystem\Models\bin\Debug\Services.pdb
+D:\MyPrograms\курс 3\MainProject\ExchengeCurrencySystem\Models\bin\Debug\Services.exe.config
+D:\MyPrograms\курс 3\MainProject\ExchengeCurrencySystem\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\MyPrograms\курс 3\MainProject\ExchengeCurrencySystem\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\MyPrograms\курс 3\MainProject\ExchengeCurrencySystem\Models\obj\Debug\Models.csproj.CopyComplete
+D:\MyPrograms\курс 3\MainProject\ExchengeCurrencySystem\Models\obj\Debug\Models.exe
+D:\MyPrograms\курс 3\MainProject\ExchengeCurrencySystem\Models\obj\Debug\Models.pdb

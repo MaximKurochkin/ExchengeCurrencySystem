@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="LoginPresenter.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -57,10 +58,6 @@
     <ProjectReference Include="..\Services\Services.csproj">
       <Project>{26e7829d-212a-4f2b-9474-2c6a9cdfbd33}</Project>
       <Name>Services</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\WindowsForms\Views.csproj">
-      <Project>{27b8e883-97b3-472b-bece-422e25de2dbb}</Project>
-      <Name>Views</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
