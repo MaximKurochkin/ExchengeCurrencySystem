@@ -10,6 +10,10 @@ using System.Windows.Forms;
 
 namespace WindowsForms
 {
+    /// <summary>
+    /// class Login
+    /// contains methods for form "Login"
+    /// </summary>
     public partial class Login : Form
     {
         public Login()
